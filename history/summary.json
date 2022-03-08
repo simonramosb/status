@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/simonramos.com",
     "slug": "simonramos-com",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 798,
-    "timeDay": 942,
-    "timeWeek": 783,
-    "timeMonth": 793,
-    "timeYear": 798,
+    "uptimeYear": "99.93%",
+    "time": 795,
+    "timeDay": 688,
+    "timeWeek": 769,
+    "timeMonth": 786,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2022-02-01": 37
     }
