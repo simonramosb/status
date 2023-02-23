@@ -4,7 +4,7 @@
     "url": "https://simonramos.com",
     "icon": "https://icons.duckduckgo.com/ip3/simonramos.com.ico",
     "slug": "simonramos-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 766,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2023-02-23": 0,
       "2022-12-01": 18,
       "2022-06-04": 146,
       "2022-06-03": 1440,
