@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/simonramos.com.ico",
     "slug": "simonramos-com",
     "status": "up",
-    "uptime": "80.83%",
+    "uptime": "80.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.34%",
-    "time": 213,
-    "timeDay": 85,
-    "timeWeek": 111,
-    "timeMonth": 157,
+    "uptimeYear": "60.62%",
+    "time": 212,
+    "timeDay": 64,
+    "timeWeek": 107,
+    "timeMonth": 155,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-03-04": 1171,
@@ -158,8 +158,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   }
 ]
