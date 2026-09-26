@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/simonramos.com.ico",
     "slug": "simonramos-com",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 178,
-    "timeWeek": 169,
-    "timeMonth": 121,
-    "timeYear": 136,
+    "timeDay": 67,
+    "timeWeek": 163,
+    "timeMonth": 122,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   }
 ]
